@@ -108,11 +108,11 @@ Le gestionnaire d’événements scrute sans cesse tous les périphériques (cla
   
 
 ## Documentation sur Tkinter
-[(FR) Documention de Jahier](https://profjahier.github.io/html/NSI/tkinter/index.html).
+[(FR) Documention de Jahier](https://profjahier.github.io/html/NSI/tkinter/index.html)
 
-[(EN) Tutoriel officiel tkdocs](https://tkdocs.com/tutorial/index.html).
+[(EN) Tutoriel officiel tkdocs](https://tkdocs.com/tutorial/index.html)
 
-[(EN) Tutoriel de PythonTutorial.net](https://www.pythontutorial.net/tkinter/tkinter-window/).
+[(EN) Tutoriel de PythonTutorial.net](https://www.pythontutorial.net/tkinter/tkinter-window/)
 
 [(EN) Tutoriel de New Mexico Tech](https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/index.html)
 
